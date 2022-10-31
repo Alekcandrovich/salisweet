@@ -1,0 +1,97 @@
+body{
+    font-family: 'Garamond', sans-serif;
+    background: #ffffff;
+   
+}
+.main{
+   
+    Width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.name1{
+    text-align: center;
+    font-size: 24px;
+    color: #FF0000;
+    font-family: 'Times New Roman';
+    font-style: normal;
+    margin: -20px 0 0 0;
+}
+.name2{
+    text-align: center;
+    font-size: 21px;
+    color: #A52A2A;
+    margin: -10px 0 0 0;
+}
+.name3-boss{
+    width: 950px;
+    display: flex;
+    justify-content: center;
+    margin: 25px auto;
+}
+.name3{
+    width: 90px;
+    height: 80px;
+    margin: 0 0 0 0;
+}
+.gif1{
+    display: block;
+    margin: -5px auto;
+    height: 2px;
+    width: 1000px;
+    background: url(.png);
+}
+.gif2{
+    display: block;
+    margin: 20px auto;
+    height: 1px;
+    width: 1000px;
+    background: url(.png);
+}
+.name4{
+    width: 1000px;
+    height: 160px;
+    left: 0px;
+    top: 0px;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 25px;
+    display: flex;
+    text-align: center;
+    color: #A52A2A;
+    margin: -5px auto;
+}
+
+.prase-boss1{
+    text-align: center;
+    margin: 45px auto;   
+}    
+
+.prase-boss2{
+    text-align: center;
+    margin: -45px auto; 
+}   
+
+.prase1{
+    width: 360px;
+    height: 230px;
+    border: 2px solid #0000EE;
+    background: url(.jpg);
+    border-radius: 20px;
+    margin: 0 20px 0 20px;
+}
+
+.prase2{
+    width: 360px;
+    height: 20px;
+    background: red;
+    border-radius: 10px;
+    margin: 0 20px 0 20px;
+}
+.prase3{
+    width: 360px;
+    height: 20px;
+    background: brown;
+    border-radius: 10px;
+    margin: 0 20px 0 20px;
+}
